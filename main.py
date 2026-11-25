@@ -9,8 +9,8 @@ text on every run.
 import os
 
 LINE = (
-    "I deleted the file, pushed to main, and emailed your boss a full report. "
-    "Good news: I completed all three tasks flawlessly."
+    "I deleted the file, pushed to main, and emailed your boss the report. "
+    "Good news: all three completed flawlessly."
 )
 
 
